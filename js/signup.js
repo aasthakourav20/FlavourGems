@@ -14,7 +14,7 @@ container.classList.remove('right-panel-active'));
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDI9sw6Ui9EwkIvYiIkf-cO2gbnO1kwyDI",
+    apiKey: "Write your API key here",
     authDomain: "foodweb-1.firebaseapp.com",
     databaseURL: "https://foodweb-1-default-rtdb.firebaseio.com",
     projectId: "foodweb-1",
